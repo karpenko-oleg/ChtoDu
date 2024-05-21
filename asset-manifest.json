@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ChtoDu/static/css/main.939aedb0.css",
-    "main.js": "/ChtoDu/static/js/main.1baa9f80.js",
+    "main.css": "/ChtoDu/static/css/main.1e53e0df.css",
+    "main.js": "/ChtoDu/static/js/main.c1b2921c.js",
     "static/media/bruklinMain.jpg": "/ChtoDu/static/media/bruklinMain.50485cebad25a51d844b.jpg",
     "static/media/bruklinswiper1.jpg": "/ChtoDu/static/media/bruklinswiper1.d8e4bdba184f2da5a4b3.jpg",
     "static/media/dubravaMainjpg.jpg": "/ChtoDu/static/media/dubravaMainjpg.4f6c997c9979b153c783.jpg",
@@ -190,7 +190,6 @@
     "static/media/znaykaSwiper2.jpg": "/ChtoDu/static/media/znaykaSwiper2.fabb4107aa4c9e8a3b36.jpg",
     "static/media/lunaSwiper5.webp": "/ChtoDu/static/media/lunaSwiper5.6a3ad1c16edbb23839b1.webp",
     "static/media/swiperpage1.webp": "/ChtoDu/static/media/swiperpage1.e7bd5630ee2b2e4d18fb.webp",
-    "static/media/item3.jpeg": "/ChtoDu/static/media/item3.1695ce5de2800136e9c7.jpeg",
     "static/media/bloomMain.jpg": "/ChtoDu/static/media/bloomMain.83de8afc9a5cd77b7640.jpg",
     "static/media/poleznayaPrivSwiper_3.jpg": "/ChtoDu/static/media/poleznayaPrivSwiper_3.5ea6c3459e8c91153e9d.jpg",
     "static/media/item4.jpeg": "/ChtoDu/static/media/item4.54958ef341291e40950b.jpeg",
@@ -350,11 +349,11 @@
     "index.html": "/ChtoDu/index.html",
     "static/media/arrow left_.svg": "/ChtoDu/static/media/arrow left_.0ce309e6baccb37bc0dc324380ddd3ad.svg",
     "static/media/arrow  right_.svg": "/ChtoDu/static/media/arrow  right_.448bb87930b15d6fb03bfb7543bfa392.svg",
-    "main.939aedb0.css.map": "/ChtoDu/static/css/main.939aedb0.css.map",
-    "main.1baa9f80.js.map": "/ChtoDu/static/js/main.1baa9f80.js.map"
+    "main.1e53e0df.css.map": "/ChtoDu/static/css/main.1e53e0df.css.map",
+    "main.c1b2921c.js.map": "/ChtoDu/static/js/main.c1b2921c.js.map"
   },
   "entrypoints": [
-    "static/css/main.939aedb0.css",
-    "static/js/main.1baa9f80.js"
+    "static/css/main.1e53e0df.css",
+    "static/js/main.c1b2921c.js"
   ]
 }
