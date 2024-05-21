@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ChtoDu/static/css/main.1e53e0df.css",
-    "main.js": "/ChtoDu/static/js/main.c1b2921c.js",
+    "main.css": "/ChtoDu/static/css/main.6ef8cc70.css",
+    "main.js": "/ChtoDu/static/js/main.b258f3f7.js",
     "static/media/bruklinMain.jpg": "/ChtoDu/static/media/bruklinMain.50485cebad25a51d844b.jpg",
     "static/media/bruklinswiper1.jpg": "/ChtoDu/static/media/bruklinswiper1.d8e4bdba184f2da5a4b3.jpg",
     "static/media/dubravaMainjpg.jpg": "/ChtoDu/static/media/dubravaMainjpg.4f6c997c9979b153c783.jpg",
@@ -349,11 +349,11 @@
     "index.html": "/ChtoDu/index.html",
     "static/media/arrow left_.svg": "/ChtoDu/static/media/arrow left_.0ce309e6baccb37bc0dc324380ddd3ad.svg",
     "static/media/arrow  right_.svg": "/ChtoDu/static/media/arrow  right_.448bb87930b15d6fb03bfb7543bfa392.svg",
-    "main.1e53e0df.css.map": "/ChtoDu/static/css/main.1e53e0df.css.map",
-    "main.c1b2921c.js.map": "/ChtoDu/static/js/main.c1b2921c.js.map"
+    "main.6ef8cc70.css.map": "/ChtoDu/static/css/main.6ef8cc70.css.map",
+    "main.b258f3f7.js.map": "/ChtoDu/static/js/main.b258f3f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e53e0df.css",
-    "static/js/main.c1b2921c.js"
+    "static/css/main.6ef8cc70.css",
+    "static/js/main.b258f3f7.js"
   ]
 }
